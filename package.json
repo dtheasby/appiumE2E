@@ -1,0 +1,18 @@
+{
+  "name": "e2eappium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "webdriverio": "^4.0.5"
+  },
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.2.12"
+  }
+}
